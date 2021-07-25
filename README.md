@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @defarmer
+- 👋 Hi, I’m @deFarmer
 - 👀 I’m interested in back to programming
 - 🌱 I’m currently learning any stuff in the universe
 
